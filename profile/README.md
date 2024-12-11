@@ -9,10 +9,10 @@ TEKSI wastewater module (project name: QGEP) is a selection of tools and a datab
 * export geodata in compliance with Swiss standards
 
 
-TEKSI wastewater module is a complete open source module based on a PostgreSQL - PostGIS data model compatible with the swiss norm SIA405 AND VSA DSS. The data are accessed and edited with a dedicated QGIS project.
+TEKSI wastewater module is a complete open source module based on a PostgreSQL - PostGIS data model compatible with the swiss norm SIA405 AND VSA-DSS. The data are accessed and edited with a dedicated QGIS project.
 The project is maintained by the [TEKSI community](https://www.teksi.ch)
 
-[TEKSI](https://www.teksi.ch) is a non profit swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures. [TEKSI GitHub Home page](https://github.com/TEKSI)
+[TEKSI](https://www.teksi.ch) is a non profit Swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures. [TEKSI GitHub Home page](https://github.com/TEKSI)
 
 ## How to start
 * [TEKSI wastewater features](https://qgep.github.io/docs/en/features-guide/index.html)
