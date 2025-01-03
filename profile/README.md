@@ -1,16 +1,20 @@
 ![TEKSI wastewater Module](https://github.com/teksi/Home/blob/master/Ressources/Logos/modules/EN/210910-teksi-waste-logos-en-01_45pp.png?raw=true)
 
-## Welcome to the TEKSI wastewater Module GitHub Home page 👋
-TEKSI wastewater module (project name: QGEP) is a selection of tools and a database implementation that allows you to:
+## Welcome to the QGEP wastewater Module GitHub Home page 👋
+
+QGEP wastewater module (project name: QGEP) is currently being replaced by TEKSI wastewater module
+
+Check this page to know more : https://github.com/teksi/wastewater
+
+QGEP is a selection of tools and a database implementation that allows you to:
 
 * manage and map your sewer network data with all its components in compliance with Swiss standards
 * indicate the characteristics of networks objects in the form of attributes such as diameter, material, depth, damages, construction year, etc.
 * produce plans and extract statistics from the database such as network values, total length of pipes, identification of future interventions, etc.
 * export geodata in compliance with Swiss standards
 
-
-TEKSI wastewater module is a complete open source module based on a PostgreSQL - PostGIS data model compatible with the swiss norm SIA405 AND VSA-DSS. The data are accessed and edited with a dedicated QGIS project.
-The project is maintained by the [TEKSI community](https://www.teksi.ch)
+QGEP wastewater module is a complete open source module based on a PostgreSQL - PostGIS data model compatible with the swiss norm SIA405 AND VSA-DSS 2015 which is now replaced by the VSA-DSS 2020 in the new TEKSI wastewater module : https://github.com/teksi/wastewater. The data are accessed and edited with a dedicated QGIS project.
+This project is maintained by the [TEKSI community](https://www.teksi.ch) and will be archived by the end of 2025 in favor of https://github.com/teksi/wastewater.
 
 [TEKSI](https://www.teksi.ch) is a non profit Swiss association set up to support open source professional GIS projects aiming to ease the management of public infrastructures. [TEKSI GitHub Home page](https://github.com/TEKSI)
 
