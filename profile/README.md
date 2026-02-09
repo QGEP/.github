@@ -1,4 +1,4 @@
-![TEKSI wastewater Module](https://github.com/teksi/Home/blob/master/Ressources/Logos/modules/EN/210910-teksi-waste-logos-en-01_45pp.png?raw=true)
+![TEKSI wastewater Module](https://github.com/teksi/Home/blob/main/Ressources/Logos/modules/EN/210910-teksi-waste-logos-en-01_45pp.png?raw=true)
 
 ## Welcome to the QGEP wastewater Module GitHub Home page 👋
 
